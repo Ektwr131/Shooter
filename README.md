@@ -1,1 +1,1 @@
-# Shooter
+In the difficulty window, press NUMBERS and don't click on the difficulty you want. Same for the skill tree, press NUMBER and not the skill you want to buy. Every skill requires the previous skill. Check how to play in the tutorial difficulty.
